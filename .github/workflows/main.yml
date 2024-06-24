@@ -4,7 +4,8 @@ on:
   push:
     branches:
       - main # 替換成您想要觸發的分支名稱
-
+  schedule:
+    - cron: '0 0/3 * * *'
 jobs:
   build:
     runs-on: windows-latest
