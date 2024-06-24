@@ -5,15 +5,18 @@ on:
       - main
   schedule:
     - cron: '0 0/3 * * *'
-  # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
-  
+
 jobs:
   build:
     runs-on: windows-latest
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
+      - name: Install yt-dlp
+        run: |
+          # 下載 yt-dlp.exe 到 .github/workflows 目錄
+          Invoke-WebRequest -Uri 'https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp.exe' -OutFile '.github/workflows/yt-dlp.exe'
       - name: Run PowerShell script
         shell: pwsh
         run: .\run1.ps1
