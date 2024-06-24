@@ -1,0 +1,15 @@
+name: Run PowerShell Script
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: windows-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - name: Run PowerShell script
+        shell: pwsh
+        run: .\run1.ps1
