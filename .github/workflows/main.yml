@@ -1,4 +1,32 @@
-•  name: Run PowerShell script
+name: Generate M3U Playlist
 
-run: .\generate-playlist.ps1
-shell: pwsh
+on: [push]
+
+jobs:
+  build:
+    runs-on: windows-latest
+
+    steps:
+    •  name: Checkout repository
+
+      uses: actions/checkout@v2
+
+    •  name: Generate M3U file
+
+      run: |
+        $urls = @("https://www.youtube.com/watch?v=2FJcu6qsM2k", "https://www.youtube.com/watch?v=_jP5o1W3eW0") # 替換成您的視頻網址
+        $outFile = "playlist.m3u"
+          " #EXTM3U" | Out-File -FilePath $outFile -Encoding UTF8
+        foreach ($url in $urls) {
+          $stream = yt-dlp -g $url
+          " #EXTINF:-1," | Out-File -Append -FilePath $outFile -Encoding UTF8
+          $stream | Out-File -Append -FilePath $outFile -Encoding UTF8
+        }
+      shell: pwsh
+
+    •  name: Upload M3U file to repository
+
+      uses: actions/upload-artifact@v2
+      with:
+        name: playlist
+        path: playlist.m3u
