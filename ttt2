@@ -1,0 +1,11 @@
+{
+  "channelList": [
+{"itemid": "00", "name": "TVBS 56 (需要VPN)", "url": "https://www.litv.tv/channel/watch/4gtv-4gtv004"},
+{"itemid": "01", "name": "台視", "url": "https://www.litv.tv/channel/watch/litv-fast1223"},
+{"itemid": "02", "name": "中視", "url": "https://www.litv.tv/channel/watch/4gtv-4gtv109"},
+{"itemid": "03", "name": "華視", "url": "https://www.ofiii.com/channel/watch/4gtv-4gtv004"},
+{"itemid": "04", "name": "公視", "url": "https://www.ofiii.com/channel/watch/4gtv-4gtv0109"},
+{"itemid": "05", "name": "民視", "url": "https://www.ftvnews.com.tw/live/live-video/1/4gtv-4gtv002"},
+{"itemid": "75", "name": "MOMO購物2台", "url": "https://www.youtube.com/@momoch3571/live"}
+]
+}
