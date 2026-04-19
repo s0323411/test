@@ -22,7 +22,7 @@
 {"itemid": "19", "name": "中天新聞", "mention": "https://www.youtube.com/watch?v=vr3XyVCR4T0", "url": "https://www.ofiii.com/channel/watch/4gtv-4gtv009"},
 {"itemid": "20", "name": "東森新聞", "url": "https://www.youtube.com/watch?v=V1p33hqPrUk"},
 {"itemid": "21", "name": "TVBS 新聞", "mention": "https://www.youtube.com/@TVBSNEWS01/live", "url": "https://www.youtube.com/watch?v=m_dhMSvUCIc"},
-{"itemid": "22", "name": "TVBSHD", "url2無法": "https://tv.iill.top/4gtv/media-live073",  "ytdl-format": "-f bestvideo[height<=720]+bestaudio/best[height<=720]","url": "https://www.youtube.com/@tvbschannel/live"},
+{"itemid": "22", "name": "TVBSHD", "url": "https://www.youtube.com/watch?v=WAUECPu9EOw",  "ytdl-format": "-f bestvideo[height<=720]+bestaudio/best[height<=720]","url2": "https://www.youtube.com/@tvbschannel/live"},
 {"itemid": "23", "name": "寰宇新聞台", "mention": "https://www.youtube.com/@globalnewstw/live", "url": "https://www.ofiii.com/channel/watch/litv-longturn14"},
 {"itemid": "24", "name": "寰宇新聞台灣台", "mention": "https://www.youtube.com/watch?v=w87VGpgd90U", "url": "https://www.ofiii.com/channel/watch/4gtv-4gtv156"},
 {"itemid": "25", "name": "三立新聞", "mention": "https://www.youtube.com/@setinews/live", "url": "https://www.ofiii.com/channel/watch/iNEWS"},
