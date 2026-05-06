@@ -42,7 +42,7 @@
 {"itemid": "37", "name": "飢餓遊戲", "url": "https://www.youtube.com/@HungerGames123/live"},
 {"itemid": "38", "name": "綜藝玩很大","url":"https://www.youtube.com/@Mr.Player/live"},
 {"itemid": "39", "name": "豬哥會社","url":"https://www.youtube.com/@FTV_ZhuGeClub/live"},
-{"itemid": "40", "name": "萬秀豬王", "url": "https://www.youtube.com/@ctvent_classic/live"},
+{"itemid": "40", "name": "中視經典綜藝", "url": "https://www.youtube.com/@ctvent_classic/live"},
 {"itemid": "45", "name": "龍華電影台", "url": "https://www.ofiii.com/channel/watch/litv-xinchuang03"},
 {"itemid": "46", "name": "龍華洋片台", "url": "https://www.ofiii.com/channel/watch/litv-xinchuang02"},
 {"itemid": "47", "name": "龍華經典台", "url": "https://www.ofiii.com/channel/watch/litv-xinchuang21"},
