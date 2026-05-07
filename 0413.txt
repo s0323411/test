@@ -16,16 +16,16 @@
 {"itemid": "13", "name": "非凡新聞台", "mention": "https://www.youtube.com/watch?v=DowThhJhtb0", "url": "https://aka03p.akamaized.net/litv/fet001.smil/playlist.m3u8", "header": "Referer: https://fetfriday.svc.litv.tv/"},
 {"itemid": "14", "name": "寰宇財經台", "url": "https://www.youtube.com/@globalmoneytv/live", "mention": "https://www.ofiii.com/channel/watch/4gtv-4gtv158"},
 {"itemid": "15", "name": "台視新聞", "url": "https://www.youtube.com/@TTV_NEWS/live", "mention": "https://www.youtube.com/watch?v=xL0ch83RAK8"},
-{"itemid": "16", "name": "中視新聞", "mention": "https://www.youtube.com/@twctvnews/live", "url": "https://www.ofiii.com/channel/watch/4gtv-4gtv074"},
-{"itemid": "17", "name": "華視新聞", "mention": "https://www.youtube.com/watch?v=wM0g8EoUZ_E", "url": "https://www.ofiii.com/channel/watch/4gtv-4gtv052"},
+{"itemid": "16", "name": "中視新聞", "url": "https://www.youtube.com/@twctvnews/live", "url2": "https://www.ofiii.com/channel/watch/4gtv-4gtv074"},
+{"itemid": "17", "name": "華視新聞", "url": "https://www.youtube.com/watch?v=wM0g8EoUZ_E", "url2": "https://www.ofiii.com/channel/watch/4gtv-4gtv052"},
 {"itemid": "18", "name": "民視新聞", "mention": "https://www.youtube.com/watch?v=ylYJSBUgaMA", "url": "https://www.ftvnews.com.tw/live/live-video/1/litv-ftv13"},
-{"itemid": "19", "name": "中天新聞", "mention": "https://www.youtube.com/watch?v=vr3XyVCR4T0", "url": "https://www.ofiii.com/channel/watch/4gtv-4gtv009"},
+{"itemid": "19", "name": "中天新聞", "url": "https://www.youtube.com/watch?v=vr3XyVCR4T0", "url2": "https://www.ofiii.com/channel/watch/4gtv-4gtv009"},
 {"itemid": "20", "name": "東森新聞", "url": "https://www.youtube.com/watch?v=V1p33hqPrUk"},
 {"itemid": "21", "name": "TVBS 新聞", "mention": "https://www.youtube.com/@TVBSNEWS01/live", "url": "https://www.youtube.com/watch?v=m_dhMSvUCIc"},
 {"itemid": "22", "name": "TVBSHD", "url": "https://www.youtube.com/watch?v=WAUECPu9EOw",  "ytdl-format": "-f bestvideo[height<=720]+bestaudio/best[height<=720]","url2": "https://www.youtube.com/@tvbschannel/live"},
-{"itemid": "23", "name": "寰宇新聞台", "mention": "https://www.youtube.com/@globalnewstw/live", "url": "https://www.ofiii.com/channel/watch/litv-longturn14"},
-{"itemid": "24", "name": "寰宇新聞台灣台", "mention": "https://www.youtube.com/watch?v=w87VGpgd90U", "url": "https://www.ofiii.com/channel/watch/4gtv-4gtv156"},
-{"itemid": "25", "name": "三立新聞", "mention": "https://www.youtube.com/@setinews/live", "url": "https://www.ofiii.com/channel/watch/iNEWS"},
+{"itemid": "23", "name": "寰宇新聞台", "url": "https://www.youtube.com/@globalnewstw/live", "url2": "https://www.ofiii.com/channel/watch/litv-longturn14"},
+{"itemid": "24", "name": "寰宇新聞台灣台", "url": "https://www.youtube.com/watch?v=w87VGpgd90U", "url2": "https://www.ofiii.com/channel/watch/4gtv-4gtv156"},
+{"itemid": "25", "name": "三立新聞", "url": "https://www.youtube.com/@setinews/live", "url2": "https://www.ofiii.com/channel/watch/iNEWS"},
 {"itemid": "26", "name": "鏡新聞", "url": "https://www.youtube.com/@mnews-tw/live"},
 {"itemid": "27", "name": "CCTV4", "url": "https://www.youtube.com/@LiveNow24H/live"},
 {"itemid": "28", "name": "鳳凰衛視資訊台", "url": "https://www.youtube.com/@phoenixtvglobal/live"},
@@ -74,11 +74,5 @@
 {"itemid": "75", "name": "MOMO購物2台", "url": "https://www.youtube.com/@momoch3571/live"}
 ]
 }
-
-
-
-
-
-
 
 
