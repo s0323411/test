@@ -34,7 +34,7 @@
 {"itemid": "31", "name":"龍兄虎弟","url":"https://www.youtube.com/watch?v=AhWzXw6dIiQ"},
 {"itemid": "32", "name":"綜藝一級棒","url":"https://www.youtube.com/@NO1TVSHOW/live"},
 {"itemid": "41", "name":"東森綜合2台","url":"https://www.youtube.com/@ettv32/live"},
-{"itemid": "31", "name":"綜藝大集合","url":"http://www.youtube.com/@FTV_Show/live"},
+{"itemid": "31", "name":"綜藝大集合(失效)","url":"http://www.youtube.com/@FTV_Show/live"},
 {"itemid": "33", "name":"超級冰冰Show","url":"https://www.youtube.com/@superbingbingshow/live"},
 {"itemid": "34", "name": "亞洲旅遊", "url": "https://www.ofiii.com/channel/watch/4gtv-4gtv076"},
 {"itemid": "35", "name": "大陸尋奇", "url": "https://www.youtube.com/@ctvchinatv/live"},
