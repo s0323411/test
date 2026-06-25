@@ -29,7 +29,6 @@
 {"itemid": "26", "name": "鏡新聞", "url": "https://www.youtube.com/@mnews-tw/live"},
 {"itemid": "27", "name": "CCTV4", "url": "https://www.youtube.com/@LiveNow24H/live"},
 {"itemid": "28", "name": "鳳凰衛視資訊台", "url": "https://www.youtube.com/@phoenixtvglobal/live"},
-{"itemid": "29", "name": "倪珍24小時播新聞", "mention": "https://www.youtube.com/@NOWnews-sp2di/live", "url": "https://www.ofiii.com/channel/watch/nnews-zh"},
 {"itemid": "30", "name": "SMART 知識台", "url": "https://www.ofiii.com/channel/watch/litv-xinchuang19"},
 {"itemid": "31", "name":"龍兄虎弟","url":"https://www.youtube.com/watch?v=AhWzXw6dIiQ"},
 {"itemid": "32", "name":"綜藝一級棒","url":"https://www.youtube.com/@NO1TVSHOW/live"},
